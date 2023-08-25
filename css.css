@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+*{padding: 0;margin: 0;box-sizing: border-box}
+.noidung1{padding: 30px}
+.noidung1 p{padding-top: 15px;padding-bottom: 15px}
+.anh {background-color: antiquewhite;height: 382px;width: 270px}
+.noidung2{display: flex;justify-content: space-between}
+.cot1{background-image: url("Image (3).png")}
+.cot2{background-image: url("Image (4).png")}
+.cot3{background-image: url("Card 3.png")}
+.cot4{background-image: url("Image (5).png")}
+.cot1 a{color:#FFFFFF;background-color: antiquewhite;padding: 15px 20px;position: absolute;}
+
+
+
+
+
+
+
+
